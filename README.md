@@ -1,2 +1,0 @@
-# RakhiMartFE
-Nikesh Project
